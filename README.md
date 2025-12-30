@@ -71,7 +71,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 > 📲 Pair Code Authentication 1
 
-[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://malvin-session-27hw.onrender.com/pair)
+[![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://pair-code-generator.onrender.com/pair)
 
 > 📲 Pair Code Authentication 2
 
